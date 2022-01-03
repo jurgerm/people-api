@@ -1,0 +1,1 @@
+SELECT * FROM `people_api`.`cars` LIMIT 1000;

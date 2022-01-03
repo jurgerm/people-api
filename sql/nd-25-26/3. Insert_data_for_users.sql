@@ -1,0 +1,19 @@
+INSERT INTO nd2526_Users(
+            email,
+            password,
+            username,
+            reg_timestamp
+)
+values
+(
+  "vaidosmail",
+  "kuku",
+   "vaida2",
+   CURDATE()
+),
+(
+  "gmail",
+  "labas",
+   "Goda2",
+   CURDATE()
+)

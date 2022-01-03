@@ -1,0 +1,6 @@
+server/node_modules/
+server/.env
+server/database/people.json
+node_modules
+package-lock.json
+

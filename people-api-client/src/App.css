@@ -1,0 +1,7 @@
+.person {
+  margin-bottom: 1rem;
+}
+
+.person .fullname {
+  font-size: 1.1rem;
+}

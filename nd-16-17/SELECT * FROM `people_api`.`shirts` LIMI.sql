@@ -1,0 +1,1 @@
+SELECT * FROM `people_api`.`shirts` LIMIT 1000;
